@@ -1,8 +1,8 @@
 export const CONFIG = {
-  dimension: 75,
-  delayMs: 1000,
+  dimension: 35,
+  delayMs: 250,
   cellColours: [
-    "rgba(266, 255, 255, 0.30)",
+    "rgba(266, 255, 255, 0.65)",
     "#e1ecdf",
     "#d2e2d0",
     "#c3d9c0",
